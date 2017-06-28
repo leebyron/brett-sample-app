@@ -1,0 +1,10 @@
+.ageAndName {
+  border: solid 1px paleturquoise;
+  padding: 20px;
+}
+
+.results {
+  color: rosybrown;
+  padding: 10px;
+  font-size: 12px;
+}
